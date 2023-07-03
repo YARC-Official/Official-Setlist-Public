@@ -8,24 +8,27 @@
 	"locales": {
 		"en-US": {
 			"title": "YARG Setlist",
-			"description": "YARG's Official Setlist is a multi-genre, full band and full difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to a 100 songs in it, all made with love,and lots care. The setlist contains songs from underappreciated artists, along with some more well known ones."
+			"description": "YARG's Official Setlist is a multi-genre, full band and full difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to a 100 songs in it, all made with love, and lots care. The setlist contains songs from underappreciated artists, along with some more well known ones."
 		}
 	},
 	"songs": [
 		{
 			"title": "pizza rolls",
 			"artist": "bottom bunk",
-			"length": 152381
+			"length": 152381,
+			"new": true
 		},
 		{
 			"title": "Butterflies",
 			"artist": "KINGSEEKER",
-			"length": 182118
+			"length": 182118,
+			"new": true
 		},
 		{
 			"title": "The Afterparty",
 			"artist": "Portraits of Tracy",
-			"length": 217448
+			"length": 217448,
+			"new": true
 		}
 	],
 	"organizer": "ItzSynth",
