@@ -1,7 +1,7 @@
 {
 	"id": "official",
 	"version": "2023-06-17-0",
-	"releaseDate": "2023-07-07T00:00:00.000Z",
+	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
 		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-06-17-0/official_0.7z"
 	],
@@ -16,19 +16,19 @@
 			"title": "pizza rolls",
 			"artist": "bottom bunk",
 			"length": 152381,
-			"new": true
+			"releaseDate": "2023-07-10T00:00:00.000Z"
 		},
 		{
 			"title": "Butterflies",
 			"artist": "KINGSEEKER",
 			"length": 182118,
-			"new": true
+			"releaseDate": "2023-07-10T00:00:00.000Z"
 		},
 		{
 			"title": "The Afterparty",
 			"artist": "Portraits of Tracy",
 			"length": 217448,
-			"new": true
+			"releaseDate": "2023-07-10T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
