@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2023-07-08-0",
+	"version": "2023-07-10-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-07-08-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-07-10-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -27,6 +27,18 @@
 		{
 			"title": "The Afterparty",
 			"artist": "Portraits of Tracy",
+			"length": 217448,
+			"releaseDate": "2023-07-10T00:00:00.000Z"
+		},
+		{
+			"title": "Runnin' Man",
+			"artist": "Stone Deep",
+			"length": 255640,
+			"releaseDate": "2023-07-10T00:00:00.000Z"
+		},
+		{
+			"title": "The New World Disorder",
+			"artist": "Höwler",
 			"length": 217448,
 			"releaseDate": "2023-07-10T00:00:00.000Z"
 		}
