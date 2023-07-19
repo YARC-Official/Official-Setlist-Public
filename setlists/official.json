@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2023-07-10-1",
+	"version": "2023-07-18-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-07-10-1/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-07-18-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
