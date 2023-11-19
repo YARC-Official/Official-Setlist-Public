@@ -3,7 +3,7 @@
 	"version": "2023-08-21-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-08-21-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-11-18-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -71,6 +71,42 @@
 			"artist": "Vandalheart",
 			"length": 250034,
 			"releaseDate": "2023-08-21T00:00:00.000Z"
+		},
+		{
+			"title": "Cowboy Tanaka",
+			"artist": "Atomic Guava",
+			"length": 213333,
+			"releaseDate": "2023-11-18T00:00:00.000Z"
+		},
+		{
+			"title": "106",
+			"artist": "Frostbitt",
+			"length": 249490,
+			"releaseDate": "2023-11-18T00:00:00.000Z"
+		},
+		{
+			"title": "Emperor Rising",
+			"artist": "Krilloan",
+			"length": 231924,
+			"releaseDate": "2023-11-18T00:00:00.000Z"
+		},
+		{
+			"title": "Spirit",
+			"artist": "Practically People",
+			"length": 137094,
+			"releaseDate": "2023-11-18T00:00:00.000Z"
+		},
+		{
+			"title": "Marlboro Mountain",
+			"artist": "Sweet Bike",
+			"length": 191294,
+			"releaseDate": "2023-11-18T00:00:00.000Z"
+		},
+		{
+			"title": "Participation Trophy Wife",
+			"artist": "Thanks! I Hate It",
+			"length": 194177,
+			"releaseDate": "2023-11-18T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
