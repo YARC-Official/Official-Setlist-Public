@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2023-11-18-0",
+	"version": "2023-12-21-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-11-18-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-12-21-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -132,16 +132,20 @@
 			"url": "https://youtube.com/@hubbubble6856"
 		},
 		{
-			"name": "Spachi",
-			"url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-		},
-		{
 			"name": "ItzSynth",
 			"url": "https://youtube.com/@SynthesizeTime"
 		},
 		{
 			"name": "Miscellany",
 			"url": ""
+		},
+		{
+			"name": "Rulas",
+			"url": "https://youtube.com/@Rulas025"
+		},
+		{
+			"name": "Spachi",
+			"url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
 		},
 		{
 			"name": "Tris",
