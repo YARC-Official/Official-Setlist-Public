@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2023-12-21-0",
+	"version": "2024-01-16-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-12-21-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-01-16-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -107,6 +107,36 @@
 			"artist": "Thanks! I Hate It",
 			"length": 194177,
 			"releaseDate": "2023-11-18T00:00:00.000Z"
+		},
+		{
+			"title": "Don't Spook The Owl",
+			"artist": "Kidd Judo",
+			"length": 213974,
+			"releaseDate": "2024-01-17T00:00:00.000Z"
+		},
+		{
+			"title": "Do",
+			"artist": "Garlagan",
+			"length": 266280,
+			"releaseDate": "2024-01-17T00:00:00.000Z"
+		},
+		{
+			"title": "No Remedy",
+			"artist": "Levia",
+			"length": 285000,
+			"releaseDate": "2024-01-17T00:00:00.000Z"
+		},
+		{
+			"title": "Languish",
+			"artist": "Our Common Collapse",
+			"length": 187023,
+			"releaseDate": "2024-01-17T00:00:00.000Z"
+		},
+		{
+			"title": "Numb The Mind",
+			"artist": "NyxTheShield",
+			"length": 275348,
+			"releaseDate": "2024-01-17T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
