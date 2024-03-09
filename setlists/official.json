@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2024-02-08-0",
+	"version": "2024-03-09-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-02-08-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-03-09-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -136,6 +136,36 @@
 			"title": "Numb The Mind",
 			"artist": "NyxTheShield",
 			"length": 275348,
+			"releaseDate": "2024-01-17T00:00:00.000Z"
+		},
+		{
+			"title": "Voidwalker",
+			"artist": "Inflicted",
+			"length": 265241,
+			"releaseDate": "2024-03-09T00:00:00.000Z"
+		},
+		{
+			"title": "poser",
+			"artist": "luminism",
+			"length": 182380,
+			"releaseDate": "2024-03-09T00:00:00.000Z"
+		},
+		{
+			"title": "Bathe in Blood",
+			"artist": "Parasiticide",
+			"length": 186764,
+			"releaseDate": "2024-03-09T00:00:00.000Z"
+		},
+		{
+			"title": "Allure",
+			"artist": "Shibito",
+			"length": 233655,
+			"releaseDate": "2024-03-09T00:00:00.000Z"
+		},
+		{
+			"title": "Circles",
+			"artist": "Thousand Thoughts",
+			"length": 209651,
 			"releaseDate": "2024-01-17T00:00:00.000Z"
 		}
 	],
