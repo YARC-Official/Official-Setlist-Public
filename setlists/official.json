@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2024-03-09-0",
+	"version": "2024-04-20-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-03-09-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-04-20-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -167,6 +167,42 @@
 			"artist": "Thousand Thoughts",
 			"length": 209651,
 			"releaseDate": "2024-03-09T00:00:00.000Z"
+		},
+		{
+			"title": "Front Row Seats",
+			"artist": "FoundiT",
+			"length": 194594,
+			"releaseDate": "2024-04-20T00:00:00.000Z"
+		},
+		{
+			"title": "Nomu",
+			"artist": "Good Kid",
+			"length": 172747,
+			"releaseDate": "2024-04-20T00:00:00.000Z"
+		},
+		{
+			"title": "322",
+			"artist": "Creo",
+			"length": 230625,
+			"releaseDate": "2024-04-20T00:00:00.000Z"
+		},
+		{
+			"title": "About The Author",
+			"artist": "The Sterns",
+			"length": 155262,
+			"releaseDate": "2024-04-20T00:00:00.000Z"
+		},
+		{
+			"title": "Sadness (feat. Sapphire Noel)",
+			"artist": "Heartsick",
+			"length": 212791,
+			"releaseDate": "2024-04-20T00:00:00.000Z"
+		},
+		{
+			"title": "Seasons (feat. Shiki Miyoshino)",
+			"artist": "Alohaii",
+			"length": 210337,
+			"releaseDate": "2024-04-20T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
