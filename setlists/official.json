@@ -1,14 +1,14 @@
 {
 	"id": "official",
-	"version": "2024-04-20-0",
+	"version": "2024-06-10-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-04-20-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-06-10-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
 			"title": "YARG Setlist",
-			"description": "YARG's Official Setlist is a multi-genre, full band and full difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to a 100 songs in it, all made with love, and lots care. The setlist contains songs from underappreciated artists, along with some more well known ones."
+			"description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love, and lots and care. The setlist contains songs from underappreciated artists, along with more well known songs."
 		}
 	},
 	"songs": [
@@ -203,6 +203,36 @@
 			"artist": "Alohaii",
 			"length": 210337,
 			"releaseDate": "2024-04-20T00:00:00.000Z"
+		},
+		{
+			"title": "All of a Sudden",
+			"artist": "Adamic",
+			"length": 230625,
+			"releaseDate": "2024-06-09T00:00:00.000Z"
+		},
+		{
+			"title": "Discipline",
+			"artist": "Nine Inch Nails",
+			"length": 306885,
+			"releaseDate": "2024-06-09T00:00:00.000Z"
+		},
+		{
+			"title": "Vehemence",
+			"artist": "Reo",
+			"length": 85200,
+			"releaseDate": "2024-06-09T00:00:00.000Z"
+		},
+		{
+			"title": "Choked Up",
+			"artist": "See You at Rogers",
+			"length": 190909,
+			"releaseDate": "2024-06-09T00:00:00.000Z"
+		},
+		{
+			"title": "Overdrive",
+			"artist": "Vessel",
+			"length": 258124,
+			"releaseDate": "2024-06-09T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
