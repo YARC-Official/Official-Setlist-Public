@@ -8,7 +8,7 @@
 	"locales": {
 		"en-US": {
 			"title": "YARG Setlist",
-			"description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love, and lots and care. The setlist contains songs from underappreciated artists, along with more well known songs."
+			"description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs."
 		}
 	},
 	"songs": [
@@ -208,31 +208,31 @@
 			"title": "All of a Sudden",
 			"artist": "Adamic",
 			"length": 230625,
-			"releaseDate": "2024-06-09T00:00:00.000Z"
+			"releaseDate": "2024-06-10T00:00:00.000Z"
 		},
 		{
 			"title": "Discipline",
 			"artist": "Nine Inch Nails",
 			"length": 306885,
-			"releaseDate": "2024-06-09T00:00:00.000Z"
+			"releaseDate": "2024-06-10T00:00:00.000Z"
 		},
 		{
 			"title": "Vehemence",
 			"artist": "Reo",
 			"length": 85200,
-			"releaseDate": "2024-06-09T00:00:00.000Z"
+			"releaseDate": "2024-06-10T00:00:00.000Z"
 		},
 		{
 			"title": "Choked Up",
 			"artist": "See You at Rogers",
 			"length": 190909,
-			"releaseDate": "2024-06-09T00:00:00.000Z"
+			"releaseDate": "2024-06-10T00:00:00.000Z"
 		},
 		{
 			"title": "Overdrive",
 			"artist": "Vessel",
 			"length": 258124,
-			"releaseDate": "2024-06-09T00:00:00.000Z"
+			"releaseDate": "2024-06-10T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
