@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2024-06-12-0",
+	"version": "2024-07-22-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-06-12-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-07-22-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -233,6 +233,36 @@
 			"artist": "Vessel",
 			"length": 258124,
 			"releaseDate": "2024-06-10T00:00:00.000Z"
+		},
+		{
+			"title": "I DON'T WANNA TALK",
+			"artist": "Carter Vail",
+			"length": 195891,
+			"releaseDate": "2024-07-22T00:00:00.000Z"
+		},
+		{
+			"title": "Long in the Tooth",
+			"artist": "Flying Raccoon Suit",
+			"length": 323707,
+			"releaseDate": "2024-07-22T00:00:00.000Z"
+		},
+		{
+			"title": "Avatar the Last Cakebender",
+			"artist": "Palette Knife",
+			"length": 167466,
+			"releaseDate": "2024-07-22T00:00:00.000Z"
+		},
+		{
+			"title": "is this what you wanted",
+			"artist": "Scro",
+			"length": 229317,
+			"releaseDate": "2024-07-22T00:00:00.000Z"
+		},
+		{
+			"title": "Guess I'll Never Know",
+			"artist": "TrackTribe",
+			"length": 208500,
+			"releaseDate": "2024-07-22T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
